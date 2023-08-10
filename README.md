@@ -57,4 +57,28 @@ Contributions are welcome! If you find any issues or want to add improvements, p
 This project is licensed under the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 
-Feel free to adjust and expand this template to provide more details about this script, its functionality, and how to use it effectively.
+## Release Notes 
+- Version: 0.0.1-alpha
+- Date: July 31, 2023
+
+### Overview
+This release marks the initial alpha version of the script, providing basic functionality and a user-friendly menu system for running JMeter tests. Please note that this version is in the early stages of development and is intended for testing and feedback purposes.
+
+### New Features
+Implemented a user-friendly menu system for selecting and running different JMeter tests.
+Added support for customizing the number of test users for each test.
+Enhanced the script's output with colored ASCII art.
+### Known Issues
+The script may encounter unexpected behavior when used with specific test configurations.
+User input validation is still in progress, and certain inputs may cause errors.
+### Usage Instructions
+Clone the repository to your local machine.
+Open PowerShell or Command Prompt and navigate to the script's directory.
+Run the script using the command .\RunJMeterTests.ps1.
+
+### Follow the on-screen instructions to choose a test and configure the number of users.
+![](./img/Alpha%200.1.png)
+
+Please note that this alpha version is a work in progress, and we welcome your feedback and contributions to help improve its functionality and stability.
+
+**Disclaimer**: This script is provided "as is" without warranty of any kind, expressed or implied. Use at your own risk.
