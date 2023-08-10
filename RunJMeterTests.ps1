@@ -16,8 +16,8 @@ Write-Host @"
 █      ,,,,,,,                                                                                                               █
 █      ,,,,,                  Version: 0.1                                                                                   █
 █      ,                      Author: Ismael Barea Insua                                                                     █
-█     ,                                                                                                                      █                    
-█                                                                                                                            █                                                               
+█     ,                                                                                                                      █
+█                                                                                                                            █
 "@     -ForegroundColor Green
 Write-Host "█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█" -ForegroundColor Green
 
