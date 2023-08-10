@@ -12,6 +12,7 @@ This repository contains a PowerShell script for automating load and performance
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
+- [Release Notes](#release-notes)
 
 ## Introduction
 
