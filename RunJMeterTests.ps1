@@ -15,7 +15,7 @@ Write-Host @"
 █       ********                                                                                                             █
 █      ,,,,,,,                                                                                                               █
 █      ,,,,,                  Version: 0.1                                                                                   █
-█      ,                      Author: Ismael Barea Insua                                                                     █
+█      ,                                                                                                                     █
 █     ,                                                                                                                      █
 █                                                                                                                            █
 "@     -ForegroundColor Green
@@ -41,7 +41,7 @@ Write-Host "  6. Delete 1000 single mapping relations"
 Write-Host "  7. Delete a mapping relation of 300 identifiers"
 Write-Host ""
 
-$choice = Read-Host "Enter the number of your choice:"
+$choice = Read-Host "Enter the number of your choice"
 $testFile = switch ($choice) {
     1 { "[API]_Get_10000_mapping_relations.jmx" }
     2 { "[API]_Create_1000_single_mapping_relations.jmx" }
